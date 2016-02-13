@@ -1,7 +1,7 @@
 name: Fiore.vegas
 favicon: null
-layout_spectrum: 0.7700291168875992
-typography_spectrum: 0.6338727117981762
+layout_spectrum: 1
+typography_spectrum: 0.75434
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.8363633134867996
-  lightness: 0.7909141730051488
+    - '#3d83c7'
+    - '#ffffff'
+    - '#bfbfff'
+    - '#00ffff'
+    - '#0000ff'
+  brandStrength: 0.6875
+  lightness: 0.375
   saturation: 0.5099423073697835
-  rhythmicContrast: 0.23485277546569705
+  rhythmicContrast: 0.5
 purpose: []
