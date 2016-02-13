@@ -4,8 +4,15 @@
         <description><![CDATA[Fiore.vegas]]></description>
         <link>https://thegrid.ai/fiore-vegas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 17:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 17:12:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fiore-vegas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to Fiore]]></title>
+            <description><![CDATA[<article><h1>Welcome to Fiore</h1><p>Welcome</p></article>]]></description>
+            <link>https://thegrid.ai/fiore-vegas/welcome-to-fiore/index.html</link>
+            <guid isPermaLink="false">a86100e1-fd18-4df0-a648-29978d5a543e</guid>
+            <pubDate>Sat, 13 Feb 2016 17:12:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f558fb94-451b-4ee7-8134-ecc5c58f181f.jpg">]]></description>
